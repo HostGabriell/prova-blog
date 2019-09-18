@@ -39,4 +39,20 @@ div ul {
     display: flex;
 }
 
+h1 {
+    font-family: Freestyle Script;
+    width:100%;
+    border: 1px solid #000;
+    background-color:blue ;
+  height: 150px;
+  font-size: 100px;
+  color:white;
+}
+
+p {
+    font-size: 50px;
+    color: white
+}
+
+
 
