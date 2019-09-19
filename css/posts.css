@@ -48,6 +48,7 @@ h1 {
     height: 150px;
     font-size: 100px;
     color:white;
+    margin: 10px;
 }
 
 section {
@@ -55,4 +56,21 @@ section {
     color: black;
     font-size: 40px;
 
+}
+p{
+    font-size: 100px;
+}
+.p1{
+    font-family: Freestyle Script;
+    width:100%;
+    border: 1px solid #000;
+    background-color:blue ;
+    height: 150px;
+    font-size: 100px;
+    color:white;
+    margin: 10px;
+    
+}
+.margin{
+    margin: 10px;
 }
