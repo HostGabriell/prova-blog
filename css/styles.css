@@ -50,8 +50,49 @@ h1 {
 }
 
 p {
-    font-size: 50px;
-    color: white
+    font-size: 100px;
+    color: black;
+text-align: center;
+font-family:Freestyle Script; 
+}
+h4{
+    font-family: arial black;
+}
+.lm{
+    text-decoration: none;
+    color: black;
+}
+.it{
+   border: none;
+    background-color: white;
+    height: 250px;
+
+}
+.im{
+    width: 250PX;
+    height: 200px;
+    display: inline;
+    margin: 10px;
+    vertical-align: top;
+
+}
+.bloc {
+    border: 1;
+    background-color: blue;
+    width: 270px;
+    height: 300px;
+    margin: 100px;
+    display: inline;
+
+}
+.it{
+    display: flex;  
+   flex-direction: row;
+   justify-content: space-between;
+}
+h5{
+font-family: arial black;
+
 }
 
 
