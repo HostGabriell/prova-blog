@@ -90,14 +90,14 @@ p{
 .block {
     border: 1;
     background-color: blue;
-    width: 270px;
+    width: 100%;
     height: 300px;
-    margin: 100px;
+    margin: 100%;
     display: inline;
     
 }
 .im{
-    width: 200PX;
+    width: 100%;
     height: 200px;
     display: inline;
     margin: 10px;
@@ -114,3 +114,17 @@ p{
     height: 2400px;
       color: white;
 }
+<<<<<<< HEAD
+=======
+
+.po {
+    color:black;
+
+}
+
+.pom {
+    align-content: center;
+    width: 300px;
+    height: 300px
+}
+>>>>>>> c947d027ff01d4cb1a3e5ca1191fae0e32a33cd3
