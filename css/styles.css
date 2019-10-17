@@ -94,6 +94,104 @@ h5{
 font-family: arial black;
 
 }
+@media screen and (min-width:130px) and (max-width:568px){
+    body{
+        background-color: blue
+    }
+    .menu {
+        color:white;
+        font: 14px lithograph;
+        padding: 3px;
+        font-weight: 155px;
+        transition: all 0.3s;
+        align-self: middle;
+        padding-top: 6px;
+        font-size: 20px;
+        
+    }
+    div {
+        width:100%;
+        height:20px;
+        border: 1px solid #000;
+        background-color:black ;
+        height: 40px;
+    
+        }
+     div ul li {
+        display:inline;
+       padding:5px;
+     }
+     div ul li a:hover{
+    text-align: top;
+    background-color: rgb(27, 27, 255);
+     color: black;
+     
+     }
+     div ul li a {
+         text-decoration: none;
+        
+     }
+    div ul {
+        text-align: center;
+        display: flex;
+    }
+    
+    h1 {
+        font-family: Freestyle Script;
+        width:100%;
+        border: 1px solid #000;
+        background-color:blue ;
+      height: 55px;
+      font-size: 50px;
+      color:white;
+    }
+    
+    p {
+        font-size: 100px;
+        color: black;
+    text-align: center;
+    font-family:Freestyle Script; 
+    }
+    h4{
+        font-family: arial black;
+    }
+    .lm{
+        text-decoration: none;
+        color: black;
+    }
+    .it{
+       border: none;
+        background-color:blue;
+        height: 250px;
+    
+    }
+    .im{
+        width: 250PX;
+        height: 200px;
+        display: inline;
+        margin: 10px;
+        vertical-align: top;
+    
+    }
+    .bloc {
+        border: 1;
+        background-color: blue;
+        width: 270px;
+        height: 300px;
+        margin: 100px;
+        display: inline;
+    
+    }
+    .it{
+        display: flex;  
+       flex-direction: column;
+       justify-content: space-between;
+    }
+    h5{
+    font-family: arial black;
+    
+    }
+}
 
 
 
